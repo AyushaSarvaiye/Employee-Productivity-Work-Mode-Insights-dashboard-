@@ -7,9 +7,11 @@ The main aim of this project is to analyze how different work modes (Hybrid, Off
 
 ##Dashboard Preview -- https://github.com/AyushaSarvaiye/Employee-Productivity-Work-Mode-Insights-dashboard-/blob/main/Screenshot%202025-08-04%20154653.png
 
-<img width="1350" height="753" alt="Screenshot 2025-08-04 154653" src="https://github.com/user-attachments/assets/4f4284e2-2cf5-4188-89b6-db1a3c78d8e9" />
+<img width="1350" height="753" alt="Screenshot 2025-08-04 154653" src="https://github.com/user-attachments/assets/a98ae35d-2778-4cd1-bd0e-309003535cfd" />
 
-<img width="1330" height="750" alt="Screenshot 2025-08-04 154725" src="https://github.com/user-attachments/assets/3f387dc0-5cb2-4693-919c-507156b0491b" />
+
+<img width="1330" height="750" alt="Screenshot 2025-08-04 154725" src="https://github.com/user-attachments/assets/9cf731ea-fbac-49c9-b015-87fd582787ce" />
+
 
 📈 Dashboard Overview & Visual Explanations
 🔹 KPI Cards (Top Section)
