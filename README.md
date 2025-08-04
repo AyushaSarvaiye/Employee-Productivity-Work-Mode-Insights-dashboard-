@@ -3,9 +3,9 @@
 * Project Objective
 The main aim of this project is to analyze how different work modes (Hybrid, Office, Remote) impact employee productivity, working patterns, training, and skill availability. This dashboard helps in understanding project contribution by experience, team collaboration preferences, and clarity in work objectives. It also supports decision-making by visualizing training status and access to work resources across the workforce.
 
-##Dataset -- 
+##Dataset -- https://github.com/AyushaSarvaiye/Employee-Productivity-Work-Mode-Insights-dashboard-/blob/main/Office%20Work%20Mode%20%26%20Productivity%20Insights.xlsx
 
-##Dashboard Preview -- 
+##Dashboard Preview -- https://github.com/AyushaSarvaiye/Employee-Productivity-Work-Mode-Insights-dashboard-/blob/main/Screenshot%202025-08-04%20154653.png
 
 <img width="1350" height="753" alt="Screenshot 2025-08-04 154653" src="https://github.com/user-attachments/assets/4f4284e2-2cf5-4188-89b6-db1a3c78d8e9" />
 
