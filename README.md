@@ -3,6 +3,14 @@
 * Project Objective
 The main aim of this project is to analyze how different work modes (Hybrid, Office, Remote) impact employee productivity, working patterns, training, and skill availability. This dashboard helps in understanding project contribution by experience, team collaboration preferences, and clarity in work objectives. It also supports decision-making by visualizing training status and access to work resources across the workforce.
 
+##Dataset -- 
+
+##Dashboard Preview -- 
+
+<img width="1350" height="753" alt="Screenshot 2025-08-04 154653" src="https://github.com/user-attachments/assets/4f4284e2-2cf5-4188-89b6-db1a3c78d8e9" />
+
+<img width="1330" height="750" alt="Screenshot 2025-08-04 154725" src="https://github.com/user-attachments/assets/3f387dc0-5cb2-4693-919c-507156b0491b" />
+
 📈 Dashboard Overview & Visual Explanations
 🔹 KPI Cards (Top Section)
 These cards display the total number of employees, total completed projects, average working hours per week, and support availability score.
